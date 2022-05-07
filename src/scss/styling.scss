@@ -1,0 +1,13 @@
+
+
+// Font styling
+
+$h1-font-size: 3rem;
+
+// resets & templates
+
+@mixin body-base-styling {
+    box-sizing: border-box;
+    margin: 0;
+    color: black;
+}
